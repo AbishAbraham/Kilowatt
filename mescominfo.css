@@ -1,0 +1,29 @@
+
+.rectangle1 {
+  position: absolute;
+  top: 20px;
+  left: 250px;
+  height: 100px;
+  width: 800px;
+  background: linear-gradient(#fdfdfd, rgba(124, 224, 249, 0) 200%);
+  border-radius: 100px;
+}
+.rectangle2 {
+  position: absolute;
+  top: 160px;
+  left: 950px;
+  height: 300px;
+  width: 300px;
+  background: linear-gradient(#fdfdfd, rgba(124, 224, 249, 0) 200%);
+  border-radius: 20px;
+}
+.rectangle3 {
+  position: absolute;
+  top: 160px;
+  left: 30px;
+  height: 560px;
+  width: 890px;
+  background: linear-gradient(#fdfdfd, rgba(124, 224, 249, 0) 200%);
+  border-radius: 20px;
+}
+
